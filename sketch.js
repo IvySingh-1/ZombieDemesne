@@ -168,7 +168,7 @@ function draw() {
     ground1.visible = false;
     ground2.visible = false;
     player.visible = false;
-    bullet.destroy();
+    //bullet.destroy();
     ZOMBIE.destroyEach();
     OBSTACLES.destroyEach();
     FLYINGZOMBIE.destroyEach();
