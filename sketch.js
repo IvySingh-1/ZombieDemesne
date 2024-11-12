@@ -82,7 +82,7 @@ function draw() {
   if (gameState == "serve") {
     background(bgIntro);
 
-    fill("Blue");
+    fill("Yellow");
     textSize(40);
     textFont("Algerian");
     text("Press SPACE to jump & ENTER to fire !", 55, 265);
